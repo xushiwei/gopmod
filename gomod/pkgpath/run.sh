@@ -1,0 +1,1 @@
+go run pkgpath/foo
