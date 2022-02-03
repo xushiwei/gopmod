@@ -1,1 +1,2 @@
-go install filesdir/*.go
+go install filesdir/*.go 
+# $GOBIN/a
