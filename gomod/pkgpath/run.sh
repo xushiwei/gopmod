@@ -1,1 +1,1 @@
-go run pkgpath/foo
+go run github.com/xushiwei/gopmod/gomod/pkgpath/foo

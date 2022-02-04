@@ -1,1 +1,1 @@
-go test pkgpath/foo
+go test github.com/xushiwei/gopmod/gomod/pkgpath/foo
