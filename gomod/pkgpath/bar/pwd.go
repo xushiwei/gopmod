@@ -1,7 +1,7 @@
-package main
+package bar
 
 import "os"
 
-func f() {
+func F() {
 	println(os.Getwd())
 }
