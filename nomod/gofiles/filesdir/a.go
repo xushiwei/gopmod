@@ -2,6 +2,6 @@ package main
 
 import "os"
 
-func F() {
+func f() {
 	println(os.Getwd())
 }
