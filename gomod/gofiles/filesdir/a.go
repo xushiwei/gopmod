@@ -1,7 +1,11 @@
 package main
 
-import "github.com/xushiwei/gopmod/gomod/pkgpath/bar"
+import (
+	"os"
+
+	"github.com/qiniu/x/log"
+)
 
 func f() {
-	bar.F()
+	log.Println(os.Getwd())
 }

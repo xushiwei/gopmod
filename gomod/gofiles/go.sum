@@ -1,2 +1,2 @@
-github.com/xushiwei/gopmod/gomod/pkgpath v0.0.3 h1:mjGrzJn/UjiHjGgXPyrNKq2q+aluveWdj4WH6wRD+MA=
-github.com/xushiwei/gopmod/gomod/pkgpath v0.0.3/go.mod h1:1bWonR6cTFKTfuLGHMWaftRnjSWgdUj/hcufr3feTZE=
+github.com/qiniu/x v1.11.5 h1:TYr5cl4g2yoHAZeDK4MTjKF6CMoG+IHlCDvvM5qym6U=
+github.com/qiniu/x v1.11.5/go.mod h1:03Ni9tj+N2h2aKnAz+6N0Xfl8FwMEDRC2PAlxekASDs=
